@@ -35,6 +35,7 @@ gem 'rack-cors'
 gem 'rails_same_site_cookie'
 gem 'gmaps4rails'
 gem 'underscore-rails', '~> 1.8', '>= 1.8.3'
+gem "rack", ">= 2.2.3.1"
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
